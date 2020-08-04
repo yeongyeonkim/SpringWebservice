@@ -8,7 +8,7 @@ IntelliJ에서 스프링부트는 Spring Initializr을 선택.
 
 Spring Boot는 Spring Starter를 선택한다.
 
-![SpringStarter](./img/SpringStarter.PNG)
+![](C:\Users\dudtb\Desktop\1.PNG)
 
 빌드 툴은 Gradle을 사용한다.
 
