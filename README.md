@@ -8,7 +8,7 @@ IntelliJ에서 스프링부트는 Spring Initializr을 선택.
 
 Spring Boot는 Spring Starter를 선택한다.
 
-![](C:\Users\dudtb\Desktop\1.PNG)
+![SpringStarter](./img/SpringStarter.PNG)
 
 빌드 툴은 Gradle을 사용한다.
 
@@ -16,7 +16,7 @@ Gradle은 Maven보다 빌드속도가 대폭 개선되었고, 다양한 Task를 
 
 많은 프로젝트에서 도입중이다.
 
-![](C:\Users\dudtb\Desktop\2.PNG)
+![Dependencies](./img/Dependencies.PNG)
 
 - Core의 Lombok
 
@@ -42,5 +42,5 @@ Git은 DVCS로 **코드 관리를 로컬저장소와 원격저장소 양쪽에�
 
 Git + Source Tree를 사용.
 
-![](C:\Users\dudtb\Desktop\git.PNG)
+![SourceTree](./img/SourceTree.PNG)
 
